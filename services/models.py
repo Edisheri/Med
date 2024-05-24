@@ -27,7 +27,7 @@ class Services(models.Model):
 
     class Meta:
         db_table = 'services'
-        verbose_name = 'Услуга'
+        verbose_name = 'Услугу'
         verbose_name_plural = 'Услуги'
         ordering = ("id",)
 

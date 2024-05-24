@@ -28,4 +28,3 @@ class CartAdmin(admin.ModelAdmin):
 
 
 
-
